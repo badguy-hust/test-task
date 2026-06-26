@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+output/
+qc_wild/output/
+preannotate/output/
+.DS_Store
+.pytest_cache/
+*.zip

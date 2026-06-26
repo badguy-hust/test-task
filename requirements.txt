@@ -1,0 +1,3 @@
+requests
+pyyaml
+# 自检测试用（可选）：pytest
